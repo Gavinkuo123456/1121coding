@@ -6,7 +6,7 @@
 
 #### 系級：科技系115年級
 
-#### 課程筆記區:https://hackmd.io/?nav=overview
+#### 課程筆記區:https://hackmd.io/@gavinkuo123456/HJhBY6I0h
 
 #### 作業連結區
 
