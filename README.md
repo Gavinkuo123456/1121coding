@@ -9,6 +9,7 @@
 #### 課程筆記區:https://hackmd.io/@gavinkuo123456/HJhBY6I0h
 
 #### 作業連結區
++ [HW1](https://github.com/Gavinkuo123456/1121coding/tree/main/HW1)
 
 #### 專題連結區
 
