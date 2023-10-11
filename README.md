@@ -10,7 +10,7 @@
 
 #### 作業連結區
 + [HW1](https://github.com/Gavinkuo123456/1121coding/tree/main/HW1)
-
++ [HW2](https://github.com/Gavinkuo123456/1121coding/tree/main/HW2)
 #### 專題連結區
 
 ###### 紫銅隊長
